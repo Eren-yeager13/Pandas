@@ -1,0 +1,10 @@
+﻿date,produit,region,ventes,Profit,satisfaction_client,ad_depense
+15/01/2023,Product A,Nord,1500,300,4,200
+02/05/2023,Product B,Ouest,500,80,2,100
+02/07/2023,Product C,Nord,0,,1,50
+02/10/2023,Product D,Sud,1200,250,4,180
+15/03/2023,Product E,Est,700,100,2,
+20/03/2023,Product F,Ouest,1100,200,3,150
+04/10/2023,Product G,Sud,0,0,,0
+04/12/2023,Product K,Est,900,130,4,100
+17/04/2023,Product M,Nord,,350,4,200
